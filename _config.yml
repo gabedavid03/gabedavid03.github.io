@@ -37,18 +37,21 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: General 
     tools: 
+    - Systems Integration 
     - Sensor Integration 
-    - 
+    - Requirements Definition 
+    - Technical Documentation 
+    - Rapid Protoyping 
+    - Debugging and Root Cause Analysis
   - category: Robotics
     tools: 
     - ROS 1/2 
     - Gazebo 
-    - RVIZ 
+    - RViz 
     - PX4 / ArduPilot
     - Computer Vision
     - HIL / SITL 
-    - SLAM 
-    - PLC Programming 
+    - SLAM  
     - Controls (PID, LQR) 
     - State Estimation (KF/EKF) 
   - category: Embedded Systems 
@@ -57,19 +60,19 @@ skills:
     - RTOS (FreeRTOS, RTEMS) 
     - Bootloaders 
     - Peripheral Drivers 
-    - Serial Communication 
+    - Serial Communication (UART, SPI, I2C) 
     - Ethernet 
     - PCIe 
-    - System Archetecture 
+    - System Architecture 
     - AVR
-    - STM 
+    - STM32 
   - category: Platforms 
     tools: 
     - NVIDIA Jetson 
     - Raspberry Pi 
     - Arduino 
-    - Linux 
-    - Jetpack 
+    - Embedded Linux 
+    - Jetpack SDK 
   - category: CAD / ECAD
     tools:
     - Eagle 
@@ -81,14 +84,17 @@ skills:
     - Circuit Debugging 
     - Oscilloscopes 
     - Protoyping 
+    - Soldering and Rework
   - category: Soft Skills 
     tools: 
-    - Leadership 
-    - 
+    - Cross-Disciplinary Collaboration 
+    - Technical Leadership 
+    - Technical Communication 
+    - Project Planning and Execution
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+formspree-key:   https://formspree.io/f/mlgerzpv
 
 
 
