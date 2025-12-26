@@ -15,7 +15,7 @@ title: Gabe David's Portfolio # This is what shows up in the tab of the browser
 name: Gabe David
 headline: Mechatronics and Robotics Engineering Candidate (May 2026) 
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  My interests and skillset include robotics, embedded systems, software hardware integration and controls spanning ground based, areial and space systems. 
+  My interests and skillset include robotics, embedded systems, hardware-software integration and controls spanning ground-based, aerial and space systems. I enjoy building and integrating end-to-end systems, from low-level embedded firmware and hardware design to simulation and autonomous behaviour. My work focuses on practical engineering trade-offs, rapid protoyping, and making complex systems work reliably in real-world environments. Areas I would like to further develop my skill sin include RF design, field robotics, state estimation and aircraft design.    
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/IMG_9332.jpg
@@ -35,10 +35,56 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: PCB Design
+  - category: General 
+    tools: 
+    - Sensor Integration 
+    - 
+  - category: Robotics
+    tools: 
+    - ROS 1/2 
+    - Gazebo 
+    - RVIZ 
+    - PX4 / ArduPilot
+    - Computer Vision
+    - HIL / SITL 
+    - SLAM 
+    - PLC Programming 
+    - Controls (PID, LQR) 
+    - State Estimation (KF/EKF) 
+  - category: Embedded Systems 
+    tools: 
+    - Bare Metal 
+    - RTOS (FreeRTOS, RTEMS) 
+    - Bootloaders 
+    - Peripheral Drivers 
+    - Serial Communication 
+    - Ethernet 
+    - PCIe 
+    - System Archetecture 
+    - AVR
+    - STM 
+  - category: Platforms 
+    tools: 
+    - NVIDIA Jetson 
+    - Raspberry Pi 
+    - Arduino 
+    - Linux 
+    - Jetpack 
+  - category: CAD / ECAD
     tools:
     - Eagle 
     - KiCad
+    - SolidWorks 
+    - Onshape
+  - category: Hardware
+    tools: 
+    - Circuit Debugging 
+    - Oscilloscopes 
+    - Protoyping 
+  - category: Soft Skills 
+    tools: 
+    - Leadership 
+    - 
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
