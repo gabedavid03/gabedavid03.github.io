@@ -17,5 +17,5 @@ skills:
   - Technical Leadership
   - Resilience 
 
-main-image: /IMG_1934.HEIC
+main-image: /IMG_1934.jpg
 ---
