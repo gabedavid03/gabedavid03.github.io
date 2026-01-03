@@ -10,5 +10,5 @@ skills:
   - Firmware/Software Debugging 
   - Integration 
   - Project Management 
-main-image: 
+main-image: /Image.jpg
 ---
