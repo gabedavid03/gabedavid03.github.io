@@ -251,7 +251,7 @@ nav .right a:last-child:hover{
 .project-card img {
     width: 100%; /* Full width of card */
     max-width: 100%; /* Max width to prevent overly wide images on larger screens */
-    aspect-ratio: 3/1;
+    aspect-ratio: 2/1;
     object-fit: cover;
     display: block;
     border-radius: 6px;
@@ -548,7 +548,7 @@ footer {
     height: 100%;  /* Changed to 100% to fill the container */
     object-fit: cover;
     border-radius: 6px;
-    aspect-ratio: 3/1;
+    aspect-ratio: 2/1;
     margin-bottom: 10px;
 }
 
