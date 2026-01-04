@@ -11,3 +11,15 @@ skills:
   - Technical Communication (Written and Oral)
 main-image: /IMG_4428.JPEG
 ---
+
+## Our Approach 
+My initial contribution was developing a pipeline using YAMNet-derived embeddings paired with trained downstream classifiers. This pipeline performed well, however a pipeline developed in parallel by a teammate outperformed this in evaluation. This approach used YOLO on the log-mel spectrogram of the audio clips and was ultimately the method used in our system due to its performance and scalability. Once we made this pivot, I shifted my focus to our pitch presentation, working on communicating our idea for the product through our slide deck and the presentation. The Team (left to right): Ian Keefe, Grant Keefe, Me, Conor Spalvieri, Ryan Berry. 
+
+<iframe
+  src="/assets/pdfs/Cerberus.pdf"
+  width="100%"
+  height="650px"
+  style="border: none;">
+</iframe>
+
+[Download slides (PDF)](/assets/pdfs/Cerberus.pdf)
