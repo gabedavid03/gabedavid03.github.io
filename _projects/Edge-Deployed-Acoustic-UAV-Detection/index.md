@@ -21,5 +21,3 @@ My initial contribution was developing a pipeline using YAMNet-derived embedding
   height="650px"
   style="border: none;">
 </iframe>
-
-[Download slides (PDF)](/assets/pdfs/Cerberus.pdf)
