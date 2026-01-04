@@ -49,7 +49,7 @@ Parallel to the software development, the hardware subteams began designing and 
   loop
   playsinline
   style="width:50%; max-width:50%; border-radius:8px;">
-  <source src="/_projects/Autonomous-VTOL-UAV/IMG_4643.mp4" type="video/mp4">
+  <source src="/_projects/Autonomous-VTOL-UAV/IMG_4643.MP4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
