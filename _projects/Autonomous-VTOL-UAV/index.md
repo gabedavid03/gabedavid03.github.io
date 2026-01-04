@@ -27,7 +27,7 @@ main-image: /IMG_1934.jpg
   loop
   playsinline
   style="width:100%; max-width:100%; border-radius:8px;">
-  <source src="./sim_v1.webm" type="video/webm">
+  <source src="/sim_v1.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
