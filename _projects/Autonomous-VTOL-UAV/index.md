@@ -31,13 +31,19 @@ main-image: /IMG_1934.jpg
   Your browser does not support the video tag.
 </video>
 
+{% include image-gallery.html images="IMG_4366.JPEG, IMG_4524.JPEG, IMG_4600.JPEG, IMG_4606.JPEG" height="400" %}
+
 ## My Role 
-During this time, I was the Navigation Lead, responsible for developing competition ready autonomous flight algorithms for the VTOL as well as simulating them to ensure performance. I lead a technical team of 10 engineering students, leading weekly standups, and giving out tasks. I also taught them about algorithm design, ROS2, PX4 Autopilot, simulations and system integration along the way. We competed in the AEAC Competition in Alma, Quebec, winning the prototype realism award, but falling a bit short during the flight tests.
+During this time, I was the Navigation Lead, responsible for developing competition ready autonomous flight algorithms for the VTOL as well as simulating them to ensure performance. I lead a technical team of 10 engineering students, leading weekly standups, and giving out tasks. I also taught them about algorithm design, ROS2, PX4 Autopilot, simulations and system integration along the way. The aircraft and trajectories were simulated using PX4's built in SITL, using ROS2 to send control commands to the aircraft in order to fly the compeition route. Once the desired performance was acheived in simulation, we moved to our software test drone to validate the perforamnce, and then moved to our final flight platform.
+
+
+{% include image-gallery.html images="IMG_4512.JPEG, IMG_4391.JPEG, IMG_4623.JPEG" height="400" %}
+
+## Design and Assembly 
+Parallel to the software development, the hardware subteams began designing and making the drone. Watching this unfold, and getting to help with carbon fibre layups and small part design was one of the coolest parts of being on this team for me. I had never had much expierence with design or manufacturing, so this was really cool to get to witness and help out with first hand. 
 
 ## Maiden Flight Troubles 
-During our maiden forward flight transition, our VTOL fell 50m out of the sky due to the harsh wind conditions. This was the day before all of us were leaving the Queen's University area for summer. 
-
-****INSERT VID***** 
+After validating the quadcopter flight modes and attempting forward flight transitions on our test VTOL platform, we were ready to test the forward flight transision on the compeition aircraft. Sadly, due to harsh winds, during our maiden forward flight transition, our VTOL fell 50m out of the sky. 
 
 ## The Comeback 
 Luckily, myself and a few  other team members all live in Halifax, and we decided to drive the VTOL home and work on it every night for a month everyday after work. In the end, the structure suffered significant damage which resulted in general flight instability issues, however a lot of the intial flight performance was restored, and this repair allowed us to compete in the compeition at the end of May. 
