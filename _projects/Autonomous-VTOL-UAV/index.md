@@ -26,7 +26,7 @@ main-image: /IMG_1934.jpg
   muted
   loop
   playsinline
-  style="width:100%; max-width:100%; border-radius:8px;">
+  style="width:50%; max-width:50%; border-radius:8px;">
   <source src="/_projects/Autonomous-VTOL-UAV/sim_v1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
