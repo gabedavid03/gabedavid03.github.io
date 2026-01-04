@@ -13,7 +13,7 @@ main-image: /IMG_4428.JPEG
 ---
 
 ## Our Approach 
-My initial contribution was developing a pipeline using YAMNet-derived embeddings paired with trained downstream classifiers. This pipeline performed well, however a pipeline developed in parallel by a teammate outperformed this in evaluation. This approach used YOLO on the log-mel spectrogram of the audio clips and was ultimately the method used in our system due to its performance and scalability. Once we made this pivot, I shifted my focus to our pitch presentation, working on communicating our idea for the product through our slide deck and the presentation. The Team (left to right): Ian Keefe, Grant Keefe, Me, Conor Spalvieri, Ryan Berry. 
+Based on the problem statement given out at the hackathon, we knew that our system had to run on the edge in a power and resource constained environment. From there, we began to divide and conquer, with half of us working on our GUI and the other half doing research and development on different ML pipelines to classify the UAVs. My initial R&D was developing a pipeline using YAMNet-derived embeddings paired with trained downstream classifiers. This pipeline performed well, however a pipeline developed in parallel by a teammate outperformed this in evaluation. This approach used YOLO on the log-mel spectrogram of the audio clips and was ultimately the method used in our system due to its performance and scalability. Once we made this pivot, I shifted my focus to our pitch presentation, working on communicating our idea for the product through our slide deck and the presentation. The Team (left to right): Ian Keefe, Grant Keefe, Me, Conor Spalvieri, Ryan Berry. 
 
 <iframe
   src="/assets/pdfs/Cerberus.pdf"
