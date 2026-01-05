@@ -28,7 +28,7 @@ One of the big problems we faced was the need for a high-fidelity simulation to 
   loop
   playsinline
   style="width:50%; max-width:50%; border-radius:8px;">
-  <source src="/_projects/iMAV2024/line_follow.mp4" type="video/mp4">
+  <source src="/_projects/iMAV-2024/line_follow.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
