@@ -13,8 +13,8 @@ skills:
 main-image: /pcb.png
 ---
 
-### The Problem
+## The Problem
 
-UWB positioning technology is needed in indoor environments due to the lack of GPS signals inside buildings. These systems are available off the shelf, however they are often very expensive, which was not suitable due to our limited budget. Therefore, there was a need for a low-cost UWB localization solution. These boards were designed using KiCAD, they are four layers (signal, ground, power, signal), and are flashed and debugged via a USB-C connection to the STM32F0 chip. Once the hardware design was complete and the boards came in, I assembled the boards and then began flashing them after hardware verification. The boards run open-source firmware that was modified to be tailored to our application. 
+UWB positioning technology is needed in indoor environments due to the lack of GPS signals inside buildings. These systems are available off the shelf, however they are often very expensive, which was not suitable due to our limited budget. Therefore, there was a need for a low-cost UWB localization solution. The boards use the STM32F0 chip along with the DWM1000 UWB tranciever to send and recieve RF signals. The board also features an EEPROM flash to store settings for each board, a barometer, and have multiple peripherals broken out to be expanded into a larger application. The board is powered, flashed and debugged over USB-C, allowing for an easy connection to any laptop. They were designed using KiCAD, they are four layers (signal, ground, power, signal). Once the hardware design was complete and the boards came in, I assembled the boards and then began flashing them after hardware verification. The boards run open-source firmware that was modified to be tailored to our application. 
 
 {% include image-gallery.html images="Image.jpg" height="400" %}
