@@ -16,7 +16,7 @@ skills:
 main-image: /IMG_5202.JPEG
 ---
 
-{% include image-gallery.html images="full_sim.png, test_sim.png" height="250" %}
+{% include image-gallery.html images="full_sim.png, test_sim.png" height="350" %}
 
 ## Creating the Simulation
 One of the big problems we faced was the need for a high-fidelity simulation to mirror our drone’s hardware and competition settings as closely as possible. This required forking PX4 Autopilot firmware to create a digital twin of our drone with the needed sensors and motors. The camera and 1D LIDAR integrated well in Gazebo, however there were serious troubles integrating an optical flow sensor and making it work with the flight controller’s simulated algorithm. Later, during integration, we figured out it was due to the fact that the optical flow sensor has to be manually enabled in the terminal on the flight controller. The next part of the simulation entailed recreating the whole competition course in simulation. The competition was layed out as an obstacale course, with the drone needing to follow a line and then complete different tasks based on the AruCo Marker on the line. The whole compeition was simulated to validate our line following, state machine, and task execution. 
