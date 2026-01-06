@@ -20,17 +20,6 @@ skills:
 main-image: /IMG_1934.jpg
 ---
 
-<video
-  controls="false"
-  autoplay
-  muted
-  loop
-  playsinline
-  style="width:50%; max-width:50%; border-radius:8px;">
-  <source src="/_projects/Autonomous-VTOL-UAV/sim_v1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 {% include image-gallery.html images="IMG_4524.JPEG, IMG_4600.JPEG" height="350" %}
 
 ## My Role 
@@ -49,7 +38,7 @@ Parallel to the software development, the hardware subteams began designing and 
   loop
   playsinline
   style="width:50%; max-width:50%; border-radius:8px;">
-  <source src="/_projects/Autonomous-VTOL-UAV/IMG_4643.MP4" type="video/mp4">
+  <source src="/_projects/2-Autonomous-VTOL-UAV/IMG_4643.MP4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

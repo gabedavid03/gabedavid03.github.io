@@ -22,13 +22,17 @@ main-image: /IMG_5202.JPEG
 One of the big problems we faced was the need for a high-fidelity simulation to mirror our drone’s hardware and competition settings as closely as possible. This required forking PX4 Autopilot firmware to create a digital twin of our drone with the needed sensors and motors. The camera and 1D LIDAR integrated well in Gazebo, however there were serious troubles integrating an optical flow sensor and making it work with the flight controller’s simulated algorithm. Later, during integration, we figured out it was due to the fact that the optical flow sensor has to be manually enabled in the terminal on the flight controller. The next part of the simulation entailed recreating the whole competition course in simulation. The competition was layed out as an obstacale course, with the drone needing to follow a line and then complete different tasks based on the AruCo Marker on the line. The whole compeition was simulated to validate our line following, state machine, and task execution. 
 
 <video
-  controls
   autoplay
   muted
   loop
   playsinline
-  style="height:50%; width:50%; max-width:50%; border-radius:8px;">
-  <source src="/_projects/iMAV-2024/line_follow.mp4" type="video/mp4">
+  style="
+    width:50%;
+    height:300px;
+    object-fit:cover;
+    border-radius:8px;
+  ">
+  <source src="/_projects/3-iMAV-2024/line_follow.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
