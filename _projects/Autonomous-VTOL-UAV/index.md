@@ -20,7 +20,7 @@ skills:
 main-image: /IMG_1934.jpg
 ---
 
-<!-- <video
+<video
   controls="false"
   autoplay
   muted
@@ -31,22 +31,7 @@ main-image: /IMG_1934.jpg
   Your browser does not support the video tag.
 </video>
 
-{% include image-gallery.html images="IMG_4524.JPEG, IMG_4600.JPEG" height="350" %} -->
-
-<div style="display:flex; gap:12px; align-items:center; justify-content:center;">
-
-  <video autoplay muted loop playsinline
-    style="height:220px; border-radius:8px;">
-    <source src="/_projects/Autonomous-VTOL-UAV/sim_v1.mp4" type="video/mp4">
-  </video>
-
-  <img src="/_projects/Autonomous-VTOL-UAV/IMG_4524.JPEG"
-       style="height:275px; border-radius:8px;" />
-
-  <img src="/_projects/Autonomous-VTOL-UAV/IMG_4600.JPEG"
-       style="height:275px; border-radius:8px;" />
-
-</div>
+{% include image-gallery.html images="IMG_4524.JPEG, IMG_4600.JPEG" height="350" %}
 
 ## My Role 
 During this time, I was the Navigation Lead, responsible for developing competition ready autonomous flight algorithms for the VTOL as well as simulating them to ensure performance. I lead a technical team of 10 engineering students, leading weekly standups, and giving out tasks. I also taught them about algorithm design, ROS2, PX4 Autopilot, simulations and system integration along the way. The aircraft and trajectories were simulated using PX4's built in SITL, using ROS2 to send control commands to the aircraft in order to fly the compeition route. Once the desired performance was acheived in simulation, we moved to our software test drone to validate the perforamnce, and then moved to our final flight platform.
@@ -57,7 +42,7 @@ During this time, I was the Navigation Lead, responsible for developing competit
 ## Design and Assembly 
 Parallel to the software development, the hardware subteams began designing and manufacturing the drone. Watching this unfold, and getting to help with carbon fibre layups and small part design was one of the coolest parts of being on this team for me. I had never had much expierence with design or manufacturing, so this was really cool to get to witness and help out with first hand. 
 
-<!-- <video
+<video
   controls="false"
   autoplay
   muted
@@ -68,22 +53,6 @@ Parallel to the software development, the hardware subteams began designing and 
   Your browser does not support the video tag.
 </video>
 
-{% include image-gallery.html images="IMG_4645.JPEG, IMG_4650.JPEG" height="350" %} -->
-
-<div style="display:flex; gap:12px; align-items:center; justify-content:center;">
-
-  <video autoplay muted loop playsinline
-    style="height:230px; border-radius:8px;">
-    <source src="/_projects/Autonomous-VTOL-UAV/IMG_4643.MP4" type="video/mp4">
-  </video>
-
-  <img src="/_projects/Autonomous-VTOL-UAV/IMG_4645.JPEG"
-       style="height:350px; border-radius:8px;" />
-
-  <img src="/_projects/Autonomous-VTOL-UAV/IMG_4650.JPEG"
-       style="height:350px; border-radius:8px;" />
-
-</div>
 
 ## Maiden Flight Crash 
 After validating the quadcopter flight modes and attempting forward flight transitions on our test VTOL platform, we were ready to test the forward flight transision on the compeition aircraft. Sadly, due to harsh winds, during our maiden forward flight transition, our VTOL fell 50m out of the sky. This was a heartbreaking one. This was the day before most of us were leaving the Kingston area as well, which meant that restoring the aircraft to its former glory would be a difficult task. 
