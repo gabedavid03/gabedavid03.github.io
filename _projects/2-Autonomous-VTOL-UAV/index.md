@@ -20,7 +20,7 @@ skills:
 main-image: /IMG_1934.jpg
 ---
 
-{% include image-gallery.html images="IMG_4524.JPEG, IMG_4600.JPEG" height="350" %}
+{% include image-gallery.html images="IMG_4366.JPEG, IMG_4524.JPEG, IMG_4600.JPEG" height="350" %}
 
 ## My Role 
 During this time, I was the Navigation Lead, responsible for developing competition ready autonomous flight algorithms for the VTOL as well as simulating them to ensure performance. I lead a technical team of 10 engineering students, leading weekly standups, and giving out tasks. I also taught them about algorithm design, ROS2, PX4 Autopilot, simulations and system integration along the way. The aircraft and trajectories were simulated using PX4's built in SITL, using ROS2 to send control commands to the aircraft in order to fly the compeition route. Once the desired performance was acheived in simulation, we moved to our software test drone to validate the perforamnce, and then moved to our final flight platform.

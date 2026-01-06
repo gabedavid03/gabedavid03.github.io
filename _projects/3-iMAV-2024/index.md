@@ -28,7 +28,7 @@ One of the big problems we faced was the need for a high-fidelity simulation to 
   playsinline
   style="
     width:50%;
-    height:300px;
+    height:400px;
     object-fit:cover;
     border-radius:8px;
   ">
