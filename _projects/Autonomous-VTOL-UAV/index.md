@@ -36,7 +36,7 @@ main-image: /IMG_1934.jpg
 <div style="display:flex; gap:12px; align-items:center; justify-content:center;">
 
   <video autoplay muted loop playsinline
-    style="height:2750px; border-radius:8px;">
+    style="height:220px; border-radius:8px;">
     <source src="/_projects/Autonomous-VTOL-UAV/sim_v1.mp4" type="video/mp4">
   </video>
 
@@ -73,7 +73,7 @@ Parallel to the software development, the hardware subteams began designing and 
 <div style="display:flex; gap:12px; align-items:center; justify-content:center;">
 
   <video autoplay muted loop playsinline
-    style="height:275px; border-radius:8px;">
+    style="height:220px; border-radius:8px;">
     <source src="/_projects/Autonomous-VTOL-UAV/IMG_4643.MP4" type="video/mp4">
   </video>
 
