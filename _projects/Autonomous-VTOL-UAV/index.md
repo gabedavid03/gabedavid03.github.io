@@ -40,10 +40,10 @@ main-image: /IMG_1934.jpg
     <source src="/_projects/Autonomous-VTOL-UAV/sim_v1.mp4" type="video/mp4">
   </video>
 
-  <img src="IMG_4524.JPEG"
+  <img src="/_projects/Autonomous-VTOL-UAV/IMG_4524.JPEG"
        style="height:220px; border-radius:8px;" />
 
-  <img src="IMG_4600.JPEG"
+  <img src="/_projects/Autonomous-VTOL-UAV/IMG_4600.JPEG"
        style="height:220px; border-radius:8px;" />
 
 </div>
@@ -77,10 +77,10 @@ Parallel to the software development, the hardware subteams began designing and 
     <source src="/_projects/Autonomous-VTOL-UAV/IMG_4643.MP4" type="video/mp4">
   </video>
 
-  <img src="IMG_4645.JPEG"
+  <img src="/_projects/Autonomous-VTOL-UAV/IMG_4645.JPEG"
        style="height:220px; border-radius:8px;" />
 
-  <img src="IMG_4650.JPEG"
+  <img src="/_projects/Autonomous-VTOL-UAV/IMG_4650.JPEG"
        style="height:220px; border-radius:8px;" />
 
 </div>
