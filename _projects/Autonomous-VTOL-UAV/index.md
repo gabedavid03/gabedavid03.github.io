@@ -73,15 +73,15 @@ Parallel to the software development, the hardware subteams began designing and 
 <div style="display:flex; gap:12px; align-items:center; justify-content:center;">
 
   <video autoplay muted loop playsinline
-    style="height:220px; border-radius:8px;">
+    style="height:230px; border-radius:8px;">
     <source src="/_projects/Autonomous-VTOL-UAV/IMG_4643.MP4" type="video/mp4">
   </video>
 
   <img src="/_projects/Autonomous-VTOL-UAV/IMG_4645.JPEG"
-       style="height:275px; border-radius:8px;" />
+       style="height:350px; border-radius:8px;" />
 
   <img src="/_projects/Autonomous-VTOL-UAV/IMG_4650.JPEG"
-       style="height:275px; border-radius:8px;" />
+       style="height:350px; border-radius:8px;" />
 
 </div>
 
