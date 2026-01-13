@@ -15,7 +15,7 @@ title: Gabe David's Portfolio # This is what shows up in the tab of the browser
 name: Gabe David
 headline: Mechatronics and Robotics Engineering Candidate (May 2026) 
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  My interests and skillset include robotics, embedded systems, hardware-software integration and controls spanning ground based, aerial and space systems. I enjoy building and integrating end to end systems, from low level embedded firmware and hardware design to simulation and autonomous behaviour. My work focuses on practical engineering trade-offs, rapid protoyping, and making complex systems work reliably in real world environments. Areas I would like to further develop my skills in include RF design, field robotics, state estimation and aircraft design.    
+  My interests and skillset include robotics, embedded systems, hardware-software integration and controls spanning ground-based, aerial and space systems. I enjoy building and integrating end-to-end systems, from low-level embedded firmware and hardware design to simulation and autonomous behaviour. My work focuses on practical engineering trade-offs, rapid prototyping, and making complex systems work reliably in real-world environments. Areas in which I would like to further develop my skills include RF design, field robotics, state estimation and aircraft design.    
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/IMG_9332.jpg
