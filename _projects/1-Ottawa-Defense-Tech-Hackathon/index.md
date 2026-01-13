@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ottawa Defense Tech Hackathon 2025
-description:  This was a team project for the Ottawa Defense Tech Hackathon that took place in November 2025. The goal of the Hackathon was to create a system to detect and classify UAVs based on their acoustic signature. By the end of the day, my team had a fully working prototype of our product, *Cerberus*, which was able to make detections in real time and publish to a GUI in order to easily view the detections each node made. My team won First Place in the competition, taking home the prize of $10,000.
+description:  "This was a team project for the Ottawa Defense Tech Hackathon that took place in November 2025. The goal of the Hackathon was to create a system to detect and classify UAVs based on their acoustic signature. By the end of the day, my team had a fully working prototype of our product, <i>Cerberus</i>, which was able to make detections in real time and publish to a GUI in order to easily view the detections each node made. My team won First Place in the competition, taking home the prize of $10,000."
 skills:   
   - YAMNet
   - ML Classifiers (MLP, SVC, Random Forest, KNN)
